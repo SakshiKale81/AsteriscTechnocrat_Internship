@@ -1,0 +1,14 @@
+Admin :
+id:admin@admin.com
+
+pass: admin123
+
+Project Manager:
+id: sakshi2002@gmail.com
+pass: sakshi123@
+
+Employe / User:
+
+id: shantanudixit257@gmail.com
+
+pass: Sakshi123@
